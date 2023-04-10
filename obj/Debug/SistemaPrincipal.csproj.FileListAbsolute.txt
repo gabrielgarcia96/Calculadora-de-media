@@ -1,0 +1,11 @@
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\bin\Debug\SistemaPrincipal.exe.config
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\bin\Debug\SistemaPrincipal.exe
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\bin\Debug\SistemaPrincipal.pdb
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.Form1.resources
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.Properties.Resources.resources
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.GenerateResource.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.exe
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 07 Operadores em C#\SistemaPrincipal\obj\Debug\SistemaPrincipal.pdb
